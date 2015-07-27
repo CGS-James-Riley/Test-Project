@@ -23,11 +23,18 @@ class ViewController: UIViewController {
     func awesomeFunction(){
         println("This is an average function")
     }
+<<<<<<< HEAD
 
     func changedCode(){
         println("This Code Has Changed Since The Branch")
     }
 
+=======
+    
+    func featureQ(){
+        println("This Feature was Changed")
+    }
+>>>>>>> feature-q
 
 }
 
