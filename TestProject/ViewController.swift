@@ -23,7 +23,11 @@ class ViewController: UIViewController {
     func awesomeFunction(){
         println("This is an average function")
     }
-
+    
+    func featureQ(){
+        var i = 0
+        println("The variable 'i' is equal to \(i)")
+    }
 
 }
 
