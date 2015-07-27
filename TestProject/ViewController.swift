@@ -24,6 +24,10 @@ class ViewController: UIViewController {
         println("This is an average function")
     }
 
+    func changedCode(){
+        println("This Code Has Changed Since The Branch")
+    }
+
 
 }
 
