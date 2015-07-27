@@ -25,8 +25,7 @@ class ViewController: UIViewController {
     }
     
     func featureQ(){
-        var i = 0
-        println("The variable 'i' is equal to \(i)")
+        println("This Feature was Changed")
     }
 
 }
