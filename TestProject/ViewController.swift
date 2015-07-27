@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
     
     func awesomeFunction(){
-        println("This is an awesome function")
+        println("This is an average function")
     }
 
 
