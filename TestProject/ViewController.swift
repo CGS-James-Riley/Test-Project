@@ -23,7 +23,9 @@ class ViewController: UIViewController {
     // Hello Message
     
     func awesomeFunction(){
-        println("This is an average function-q")
+<<<<<<< HEAD
+
+        println("This is function Q and K")
     }
 //<<<<<<< HEAD
 
